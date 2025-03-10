@@ -1,2 +1,1 @@
-# final_beatmaker
-final_beatmaker_backend
+Актуальный проект, финальная версия бэкенда для битмейейкера
